@@ -8,5 +8,9 @@ Install axios
 
 ```npm install axios```
 
+Install web3
+
+```npm install web3```
+
 ## Run
 ```node 1inch.mjs```
